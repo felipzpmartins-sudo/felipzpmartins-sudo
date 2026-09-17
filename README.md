@@ -1,17 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/felipzpmartins-sudo/felipzpmartins-sudo/main/image.png" width="100%" />
-
-# Oi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28"/>, eu sou o Felipe
-
-**Começando no desenvolvimento · apaixonado pela parte visual**
+<img src="https://raw.githubusercontent.com/felipzpmartins-sudo/felipzpmartins-sudo/main/header.jpg" width="100%" />
 
 ```
 dia 1 de muitos
 ```
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=480&lines=Aprendendo+do+zero%2C+sem+pressa;Interfaces%2C+design+e+detalhe;Um+pouco+melhor+a+cada+dia" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=900&color=58A6FF&center=true&vCenter=true&width=480&lines=Aprendendo+do+zero%2C+sem+pressa;Interfaces%2C+layout+e+detalhe;Um+pouco+melhor+a+cada+dia" />
 </p>
 
 </div>
@@ -23,8 +19,8 @@ dia 1 de muitos
 Estou começando agora no mundo da programação — e sendo bem sincero,
 ainda sei pouco. Mas estou aprendendo todo dia.
 
-O que mais me atrai é o **lado visual do front-end**: interface, layout,
-cor, espaçamento, aquele detalhe que faz a tela ficar bonita de verdade.
+Gosto da área de **front-end**, principalmente da parte visual: interface,
+layout, cor, espaçamento, aquele detalhe que faz a tela ficar boa de usar.
 
 Por enquanto meu foco é entender o básico bem feito: HTML, CSS e
 JavaScript. Sem atalho, sem pular etapa.
