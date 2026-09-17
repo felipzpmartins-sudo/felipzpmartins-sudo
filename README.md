@@ -14,7 +14,7 @@
 
 ---
 
-## 🐍 A cobrinha comendo meus commits
+## 🐍 Commits
 
 <div align="center">
 
