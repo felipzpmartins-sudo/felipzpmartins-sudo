@@ -52,16 +52,6 @@ JavaScript. Sem atalho, sem pular etapa.
 
 ---
 
-## 🎯 Objetivos
-
-- [x] Criar meu perfil no GitHub
-- [ ] Terminar de aprender HTML e CSS
-- [ ] Fazer meu primeiro projeto do zero
-- [ ] Entender JavaScript de verdade
-- [ ] Colocar um site meu no ar
-
----
-
 ## 🤝 Contato
 
 <div align="center">
@@ -72,14 +62,6 @@ JavaScript. Sem atalho, sem pular etapa.
 <a href="https://github.com/felipzpmartins-sudo">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-<i>obrigado por passar por aqui ✨</i>
 
 <br/><br/>
 
