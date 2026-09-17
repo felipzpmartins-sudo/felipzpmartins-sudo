@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=180&section=header&text=felipe%20martins&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=aprendendo%20a%20construir%20coisas%20bonitas%20na%20web&descAlignY=58&descSize=15" width="100%" />
+<img src="https://raw.githubusercontent.com/felipzpmartins-sudo/felipzpmartins-sudo/main/image.png" width="100%" />
 
 # Oi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28"/>, eu sou o Felipe
 
@@ -78,7 +78,5 @@ JavaScript. Sem atalho, sem pular etapa.
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=felipzpmartins-sudo&style=flat-square&color=58a6ff&label=visitas+no+perfil" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=110&section=footer" width="100%" />
 
 </div>
