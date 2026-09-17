@@ -38,16 +38,15 @@ baixo do capô e virar um engenheiro de software de verdade.
 
 ---
 
-## 🤝 Contato
+## 🛠️ Projetos
 
 <div align="center">
 
-<a href="https://github.com/felipzpmartins-sudo">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="mailto:felipzpmartins@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+| Projeto | O que é | Stack |
+| :--- | :--- | :--- |
+| **[sankyaAPI](https://github.com/felipzpmartins-sudo/sankyaAPI)** | API construída para praticar arquitetura e boas práticas de backend | `TypeScript` |
+| **[maker-wallet](https://github.com/felipzpmartins-sudo/maker-wallet)** | Carteira digital — estudo de fluxo financeiro e regras de negócio | `TypeScript` |
+| **[makercar](https://github.com/felipzpmartins-sudo/makercar)** | Projeto voltado a veículos, do modelo de dados à interface | `TypeScript` |
 
 </div>
 
@@ -65,36 +64,16 @@ baixo do capô e virar um engenheiro de software de verdade.
 
 ---
 
-## 📊 GitHub Stats
+## 🤝 Contato
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=felipzpmartins-sudo&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipzpmartins-sudo&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=felipzpmartins-sudo&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=felipzpmartins-sudo&theme=github-compact&hide_border=true&area=true" width="95%" />
-
-</div>
-
----
-
-## 🏆 Troféus
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=felipzpmartins-sudo&theme=darkhub&no-frame=true&column=7&margin-w=8" />
+<a href="https://github.com/felipzpmartins-sudo">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="mailto:felipzpmartins@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
@@ -102,7 +81,11 @@ baixo do capô e virar um engenheiro de software de verdade.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=felipzpmartins-sudo&style=flat-square&color=58a6ff" />
+<i>O gráfico de contribuições logo abaixo conta o resto da história ↓</i>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=felipzpmartins-sudo&style=flat-square&color=58a6ff&label=profile+views" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" />
 
